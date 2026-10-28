@@ -1,8 +1,9 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Hello World
 
-Hi there!
-My name is Jean.
-This is my very first GitHub repository for learning the GitHub Flow.
-I am passionate about technology and love learning about it.
-Excited to get better at coding.
+Practice repository for the GitHub Flow.
+
+## Description
+Introductory repository used to practice GitHub Flow (branches, commits, pull requests).
+
+## Status
+Learning / archive candidate.
